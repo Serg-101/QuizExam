@@ -24,5 +24,7 @@
  В начале и конце программы мы выводим входной и результирующий массивы методом **PrintArray** как того требует задание.
 
  ## Блок схема:
- 	![BlockDiagram](https://raw.githubusercontent.com/Serg-101/QuizExam/main/scheme.drawio.png)
+
+![scheme drawio](https://user-images.githubusercontent.com/53880608/177016134-7ea25c07-6ca1-45ae-b504-7330831202c0.png)
+
 
